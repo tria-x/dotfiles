@@ -1,0 +1,24 @@
+[user]
+	name = Tria X
+	email = 117151665+tria-x@users.noreply.github.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
+[alias]
+	co = checkout
+	st = status
+	cmt = commit
+[log]
+	showSignature = true
+[gpg]
+	minTrustLevel = fully
+[merge]
+	verifySignatures = false
+[tag]
+	gpgSign = false
+	forceSignAnnotated = false
+[commit]
+	gpgsign = false
+[push]
+	gpgSign = false
